@@ -44,10 +44,10 @@
 ## 🧧 Principais Repositorios:
 <div align=center> 
   <a href="https://github.com/ThiagoInfanger/Biblioteca--Node.JS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoInfanger&repo=Biblioteca--Node.JS&theme=dark" width=500px />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoInfanger&repo=Biblioteca--Node.JS&theme=dark" />
   </a>
   <a href="https://github.com/ThiagoInfanger/TCC-SistemaNAED">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoInfanger&repo=TCC-SistemaNAED&theme=dark" width=500px />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoInfanger&repo=TCC-SistemaNAED&theme=dark"  />
   </a>
 </div>
 
