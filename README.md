@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Thiago Infanger 🤟
-
-<img align="right" src="https://komarev.com/ghpvc/?username=ThiagoInfanger&color=ff69b4"><br>
-
+<br>
 <div align="center">
   <a href="https://github.com/Lcxm2002">
     <img align="center" src=".github/workflows/Welcome.gif" "width="400">
@@ -19,6 +17,10 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/ThiagoInfanger)
 [![MasterHead](tenor.gif)](https://github.com/ThiagoInfanger)
 
+<a href="https://github.com/ThiagoInfanger">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoInfanger&show_icons=true&theme=merko" />
+</a>
+
 <h3 align="left">Minhas Redes: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thiago-infanger-7214ab181/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="" height="40" width="40" /></a>
@@ -35,10 +37,18 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" width="40" height="40" style="max-width:100%;"></img>
     
-<div>
-  <a href="https://github.com/ThiagoInfanger">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoInfanger&show_icons=true&theme=merko&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoInfanger&langs_count=8&layout=compact&theme=merko&hide_border=true"/>
+<a href="https://github.com/ThiagoInfanger">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoInfanger&layout=compact&langs_count=8&card_width=320&theme=merko&hide_border=true" />
+</a>
+
+## 🧧 Principais Repositorios:
+<div align=center> 
+  <a href="https://github.com/ThiagoInfanger/Biblioteca--Node.JS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoInfanger&repo=Biblioteca--Node.JS&theme=dark" width=500px />
+  </a>
+  <a href="https://github.com/ThiagoInfanger/TCC-SistemaNAED">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoInfanger&repo=TCC-SistemaNAED&theme=dark" width=500px />
+  </a>
 </div>
 
 ## 😎 Sobre mim
