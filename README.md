@@ -1,13 +1,25 @@
 ### Olá! Eu sou o Thiago Infanger 🤟
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagoinfanger.pro/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-infanger-7214ab181/)
+<img align="right" src="https://komarev.com/ghpvc/?username=ThiagoInfanger&color=ff69b4"><br>
+
+<div align="center">
+  <a href="https://github.com/Lcxm2002">
+    <img align="center" src=".github/workflows/Welcome.gif" "width="400">
+  </a>
+</div>
+<br>
+<p>lucaxmelchior@gmail.com</p>
+
+[![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lcxm2002)
+[![MasterHead](tenor.gif)](https://github.com/Lcxm2002)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/ThiagoInfanger)
 
 <div>
   <a href="https://github.com/ThiagoInfanger">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThiagoInfanger&show_icons=true&theme=merko&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoInfanger&theme=merko&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThiagoInfanger&show_icons=true&theme=merko&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoInfanger&layout=compact&langs_count=7&theme=merko&hide_border=true"/>
 </div>
 
 ## Linguagens Utilizadas:
