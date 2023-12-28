@@ -1,4 +1,4 @@
-### Olá! Eu sou o Thiago Infanger Soares da Silva 🤟
+### Olá! Eu sou o Thiago Infanger 🤟
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagoinfanger.pro/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-infanger-7214ab181/)
@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/nascimentocode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoInfanger&theme=merko&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoInfanger&theme=merko&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThiagoInfanger&theme=merko&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoInfanger&theme=merko&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 ## Linguagens Utilizadas:
