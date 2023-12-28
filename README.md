@@ -5,8 +5,8 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/ThiagoInfanger)
 
 <div>
-  <a href="https://github.com/nascimentocode">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThiagoInfanger&theme=merko&show_icons=true&hide_border=true&count_private=true"/>
+  <a href="https://github.com/ThiagoInfanger">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThiagoInfanger&show_icons=true&theme=merko&hide_border=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoInfanger&theme=merko&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
