@@ -38,7 +38,7 @@
 <div>
   <a href="https://github.com/ThiagoInfanger">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoInfanger&show_icons=true&theme=merko&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoInfanger&layout=compact&langs_count=7&theme=merko&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoInfanger&langs_count=8&layout=compact&theme=merko&hide_border=true"/>
 </div>
 
 ## 😎 Sobre mim
