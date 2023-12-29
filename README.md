@@ -18,7 +18,7 @@
 [![MasterHead](tenor.gif)](https://github.com/ThiagoInfanger)
 
 <a href="https://github.com/ThiagoInfanger">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoInfanger&show_icons=true&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoInfanger&show_icons=true&theme=dark" />
 </a>
 
 <h3 align="left">Minhas Redes: </h3>
@@ -38,13 +38,13 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" width="40" height="40" style="max-width:100%;"></img>
     
 <a href="https://github.com/ThiagoInfanger">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoInfanger&layout=compact&langs_count=8&card_width=320&theme=merko&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoInfanger&layout=compact&langs_count=10&card_width=320&theme=dark" />
 </a>
 
 ## 🧧 Principais Repositorios:
 <div align=center> 
-  <a href="https://github.com/ThiagoInfanger/Biblioteca-Node">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoInfanger&repo=Biblioteca-Node&theme=dark" />
+  <a href="https://github.com/ThiagoInfanger/Ano-Novo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoInfanger&repo=Ano-Novo&theme=dark" />
   </a>
   <a href="https://github.com/ThiagoInfanger/TCC-SistemaNAED">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThiagoInfanger&repo=TCC-SistemaNAED&theme=dark"  />
